@@ -835,4 +835,52 @@
 		"requiredTech": "Metallurgy",
 		"quote": "'The Law is a fortress on a hill that armies cannot take or floods wash away.' - The Prophet Muhammed"
 	},
+	
+	
+	// All Eras
+
+	{
+		"name": "Utopia Project",
+		"cost": 1500,
+		"isNationalWonder": true,
+		"uniques": ["Hidden until [5] social policy branches have been completed", "Triggers a global alert upon build start",
+			"Triggers a Cultural Victory upon completion", "Hidden when [Cultural] Victory is disabled", "Cannot be hurried"]
+	},
+
+	// Religious buildings
+
+	{
+		"name": "Cathedral",
+		"cost": 0,
+		"faith": 1,
+		"culture": 3,
+		"happiness": 1,
+		"specialistSlots": {"Artist": 1},
+		"uniques": ["Unbuildable", "Hidden when religion is disabled"]
+	},
+	{
+		"name": "Monastery",
+		"cost": 0,
+		"culture": 2,
+		"faith": 2,
+		"uniques": ["[+1 Culture, +1 Faith] from [Wine] tiles [in this city]",
+			"[+1 Culture, +1 Faith] from [Incense] tiles [in this city]",
+			"Unbuildable", "Hidden when religion is disabled", "Destroyed when the city is captured"]
+	},
+	{
+		"name": "Mosque",
+		"cost": 0,
+		"culture": 2,
+		"faith": 3,
+		"happiness": 1,
+		"uniques": ["Unbuildable", "Hidden when religion is disabled"]
+	},
+	{
+		"name": "Pagoda",
+		"cost": 0,
+		"culture": 2,
+		"faith": 2,
+		"happiness": 2,
+		"uniques": ["Unbuildable", "Hidden when religion is disabled"]
+	}
 ]
