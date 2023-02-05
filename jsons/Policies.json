@@ -401,7 +401,6 @@
                 "uniques": [
                     "[+1 Gold] from every [Trading post]",
                     "[+100]% Gold from Great Merchant trade missions",
-                    "May buy [Great Merchant] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
         ]
@@ -467,7 +466,6 @@
                 "name": "Rationalism Complete",
                 "uniques": [
                     "[2] Free Technologies",
-                    "May buy [Great Scientist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
         ]
